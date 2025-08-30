@@ -1,0 +1,15 @@
+# ---- Core scientific stack ----
+numpy>=1.26
+pillow>=10.3
+opencv-python>=4.10
+scikit-learn>=1.5
+pandas>=2.2
+matplotlib>=3.8
+
+# ---- OPTIONAL: Deep learning (comment out if unused) ----
+# torch>=2.2
+# torchvision>=0.17
+
+# ---- OPTIONAL: Parent report text generation (comment out if unused) ----
+transformers>=4.41
+huggingface-hub>=0.23
